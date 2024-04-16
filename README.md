@@ -1,3 +1,3 @@
-# practicas_cpp
+# practicas_C++
 
 Contiene ejercicios básicos de c++
