@@ -1,3 +1,3 @@
-# practicas_C++
+# Prácticas C++
 
-Contiene ejercicios básicos de c++
+Contiene ejercicios básicos de c++ básicos, para aprender programación básica.
